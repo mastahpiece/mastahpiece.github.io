@@ -1,0 +1,7 @@
+#noVatDiv {
+    display: none;
+}
+
+#plusVatDiv {
+    display: block !important;
+}
